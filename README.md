@@ -31,6 +31,9 @@ The data structure which is being used in DFS is stack. The process is similar t
 ## Functions
 
 1- Print grid 
+
 2- Search Visited Array
+
 3- BFS
+
 4- DFS
