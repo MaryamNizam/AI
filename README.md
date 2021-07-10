@@ -2,7 +2,7 @@
 Grid play game implementation for artificial intelligence.
 Depth first search and Breath First Search implementation for AI.
 
-## Programming
+## Programming Language
 The language used is python. 
 
 ## Platform
@@ -28,3 +28,9 @@ Depth first search (DFS) algorithm starts with the initial node of the graph G, 
 
 The data structure which is being used in DFS is stack. The process is similar to BFS algorithm. In DFS, the edges that leads to an unvisited node are called discovery edges while the edges that leads to an already visited node are called block edges.
 
+## Functions
+
+1- Print grid 
+2- Search Visited Array
+3- BFS
+4- DFS
